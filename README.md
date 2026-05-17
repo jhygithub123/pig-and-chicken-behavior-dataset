@@ -1,4 +1,4 @@
-# pig-aggressive-behavior-recognition-dataset
+# pig and chicken behavior dataset
 This project is used to publish the dataset of pig and chicken behavior recognition that we collected and produced.
 
 Paper: 《Efficient Aggressive Behavior Recognition of Pigs Based on Temporal Shift Module》
