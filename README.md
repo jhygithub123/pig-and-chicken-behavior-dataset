@@ -11,9 +11,13 @@ Password：1234
 
 下面这个是关于猪的躺、站和坐的数据集，太久远了，找不到全部的了
 
+The following is a dataset on pigs’ lying, standing, and sitting postures. It is quite old, so I can no longer find the complete dataset.
+
 链接: https://pan.baidu.com/s/1yVvppXdGHHBX9b0td4J0mQ 提取码: 1234
 
 下面这个是笼养鸡采食行为的数据集，不过场景比较特殊
+
+The following is a dataset on feeding behavior in caged chickens, but the scenario is relatively specific.
 
 链接: https://pan.baidu.com/s/1-sccboe7GGFGJ21xZOCifA 提取码: 1234
 
